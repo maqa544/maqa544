@@ -8,7 +8,7 @@ I'm a passionate Android Developer with more than 2 years of experience in build
 - **Other:** Firebase, Google Maps API, Coil
 
 ### Notable Projects
-- One2Work: A job placement app for freelancers, featuring integration with Retrofit, Google Push Services, Google Maps API and others. (Private repository)
+- [one2work](https://play.google.com/store/apps/details?id=ru.one2work.android): A job placement app for freelancers, featuring integration with Retrofit, Google Push Services, Google Maps API and others. (Private repository)
 - [BillMates App](https://github.com/maqa544/BillMatesApp): A bill-splitting app for groups to manage shared expenses.
 
 ### Let's Connect
